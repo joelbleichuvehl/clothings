@@ -1,0 +1,39 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "username": "admin@gmail.com",
+      "password": "1234"
+    }
+  ],
+  "pessoas": [
+    {
+      "id": 1,
+      "nome": "Joel Bleichuvehl",
+      "telefone": "(49) 3563-1010"
+    },
+    {
+      "id": 2,
+      "nome": "Nicolas Bleichuvehl",
+      "telefone": "(49) 3563-2020"
+    }
+  ],
+  "produtos": [
+    {
+      "id": 1,
+      "marca": "Silk",
+      "descricao": "Camiseta manga longa masculina",
+      "tipo": "Acessorio",
+      "quantidade": 15,
+      "valor": "R$150,00"
+    },
+    {
+      "marca": "teste",
+      "descricao": "calça jeans",
+      "valor": "R$ 150,00",
+      "quantidade": "12",
+      "tipo": "Vestuario",
+      "id": 2
+    }
+  ]
+}
